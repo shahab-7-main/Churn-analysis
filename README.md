@@ -112,9 +112,10 @@ This project helped me strengthen my skills in:
 ---
 
 ## 📂 Files Included
-- `Customer_Churn_Analysis.pbix` — Interactive Power BI dashboard  
+- `Churn Dashboard.pbix` — Interactive Power BI dashboard  
 - `README.md` — Project documentation  
-- `dashboard.png` — Dashboard screenshots for preview  
+- `dashboard.png` — Dashboard screenshots for preview
+- `Customer_Data` - dataset
 
 ---
 
