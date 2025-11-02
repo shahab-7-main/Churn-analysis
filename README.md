@@ -126,4 +126,4 @@ By identifying key churn factors, companies can implement **targeted retention s
 ---
 
 ### 📸 Dashboard Preview
-![Customer Churn Dashboard](Images/churn_dashboard.png)
+<a href = 'https://github.com/shahab-7-main/Churn-analysis/blob/main/dashboard.png'> Churn Analysis Dashboard<a>
